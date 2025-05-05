@@ -36,5 +36,7 @@ GBK-CHECKER: フォントパッチの適用状況を確認するツール。
 
 関連リンク
 PRO-JAP GitHubリポジトリ
+https://github.com/haroturbo/PRO-JAP/
 
 Wayback Machineによるアーカイブ
+https://web.archive.org/web/20230204163035/http://ijiro.daiwa-hotcom.com/data/IJIRO/PROJAP/index.html
